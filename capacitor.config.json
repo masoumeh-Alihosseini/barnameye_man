@@ -1,0 +1,6 @@
+{
+  "appId": "it.unimi.masoumeh.planner",
+  "appName": "برنامه‌ی من",
+  "webDir": "www",
+  "android": { "backgroundColor": "#EDF0EB" }
+}
